@@ -2,7 +2,7 @@
 
 Uruchomienie:
 
-dotnet publish src/PetWorld.Web -c Release
+dotnet publish src/PetWorld.Web -c Release 
 docker compose up --build
 
 Aplikacja:
