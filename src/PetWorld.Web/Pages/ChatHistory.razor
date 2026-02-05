@@ -1,0 +1,32 @@
+@page "/history"
+@inject PetWorld.Web.Services.ClientChatService ChatService
+
+<h3>Historia</h3>
+
+<table border="1">
+<tr>
+  <th>Data</th>
+  <th>Pytanie</th>
+  <th>Odpowiedü</th>
+  <th>Iteracje</th>
+</tr>
+
+@foreach (var m in Messages)
+{
+<tr>
+  <td>@m.CreatedAt</td>
+  <td>@m.Question</td>
+  <td>@m.Answer</td>
+  <td>@m.Iterations</td>
+</tr>
+}
+</table>
+
+@code {
+   List<PetWorld.Domain.Entities.ClientChatMessage> Messages;
+
+   protected override async Task OnInitializedAsync()
+   {
+       Messages = await ChatService.GetHistoryAsync();
+   }
+}

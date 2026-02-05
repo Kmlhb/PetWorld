@@ -1,0 +1,23 @@
+@page "/chat"
+@inject PetWorld.Web.Services.ClientChatService ChatService
+
+<h3>Chat z AI</h3>
+
+<input @bind="Question" />
+<button @onclick="Send">Wyúlij</button>
+
+@if (Last != null)
+{
+    <p><b>Odpowiedü:</b> @Last.Answer</p>
+    <p><b>Iteracje:</b> @Last.Iterations</p>
+}
+
+@code {
+    string Question;
+    PetWorld.Domain.Entities.ClientChatMessage Last;
+
+    async Task Send()
+    {
+        Last = await ChatService.SendQuestionAsync(Question);
+    }
+}
