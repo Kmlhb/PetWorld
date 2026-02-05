@@ -1,15 +1,11 @@
 # PetWorld Chat
 
-Uruchomienie:
-
-dotnet publish src/PetWorld.Web -c Release 
+Uruchomienie:<br>
+dotnet publish src/PetWorld.Web -c Release<br> 
 docker compose up --build
 
-Aplikacja:
-http://localhost:5000
+Aplikacja: http://localhost:5000
 
-Chat:
-/chat
+Chat: /chat
 
-Historia:
-/history
+Historia: /history
