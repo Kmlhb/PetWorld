@@ -1,0 +1,16 @@
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\bin\Debug\net10.0\PetWorld.Infrastructure.deps.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\bin\Debug\net10.0\PetWorld.Infrastructure.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\bin\Debug\net10.0\PetWorld.Infrastructure.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\bin\Debug\net10.0\PetWorld.Domain.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\bin\Debug\net10.0\PetWorld.Domain.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.AssemblyInfo.cs
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.sourcelink.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.ECE892A9.Up2Date
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\refint\PetWorld.Infrastructure.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\PetWorld.Infrastructure.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Infrastructure\obj\Debug\net10.0\ref\PetWorld.Infrastructure.dll

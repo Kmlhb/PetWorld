@@ -1,0 +1,12 @@
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\bin\Release\net10.0\PetWorld.Domain.deps.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\bin\Release\net10.0\PetWorld.Domain.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\bin\Release\net10.0\PetWorld.Domain.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.AssemblyInfoInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.AssemblyInfo.cs
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.csproj.CoreCompileInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.sourcelink.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\refint\PetWorld.Domain.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\PetWorld.Domain.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Domain\obj\Release\net10.0\ref\PetWorld.Domain.dll

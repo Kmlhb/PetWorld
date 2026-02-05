@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "PetWorld.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/PetWorld.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetWorld.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PetWorld.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PetWorld.Domain/PetWorld.Domain.csproj",
+      "msbuildProject": "../PetWorld.Domain/PetWorld.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "PetWorld.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\wikul\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\wikul\\OneDrive\\Dokumenty\\Projects\\PetWorld\\src\\PetWorld.Domain\\PetWorld.Domain.csproj": {
+              "projectPath": "c:\\Users\\wikul\\OneDrive\\Dokumenty\\Projects\\PetWorld\\src\\PetWorld.Domain\\PetWorld.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

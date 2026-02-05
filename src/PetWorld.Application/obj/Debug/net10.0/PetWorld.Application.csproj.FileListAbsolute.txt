@@ -1,0 +1,16 @@
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\bin\Debug\net10.0\PetWorld.Application.deps.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\bin\Debug\net10.0\PetWorld.Application.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\bin\Debug\net10.0\PetWorld.Application.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\bin\Debug\net10.0\PetWorld.Domain.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\bin\Debug\net10.0\PetWorld.Domain.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.csproj.AssemblyReference.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.AssemblyInfoInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.AssemblyInfo.cs
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.csproj.CoreCompileInputs.cache
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.sourcelink.json
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.1344C01C.Up2Date
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\refint\PetWorld.Application.dll
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\PetWorld.Application.pdb
+c:\Users\wikul\OneDrive\Dokumenty\Projects\PetWorld\src\PetWorld.Application\obj\Debug\net10.0\ref\PetWorld.Application.dll
